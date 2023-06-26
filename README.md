@@ -6,7 +6,9 @@ It takes text from the clipboard and translates it to Cyrillic (first select the
 Example:
 
 before:
+
 Ghbdsn!
 
 After:
+
 Привіт!
